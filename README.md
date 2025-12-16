@@ -18,5 +18,16 @@ Repositorio creado para el ejercicio final de Módulo de actualización técnica
 1. Carga de textos desde la carpeta corpus2.
 2. Carga de textos en Voyant Tools, limpieza, exploración de herramientas, capturas de pantalla y copia de URL de las diferentes visualizaciones exploradas. Carga de todos estos elementos en la carpeta img_voyant. 
 3. carga de textos en R, limpieza, tokenización y creación de nube de palabras y gráfico de barras.
-4. Análisis de los corpus en un archivo .txt
+4. Análisis de los corpus, que se presenta a continuación.
+
+# Análisis de los corpus
+1. ¿Pueden determinar con las visualizaciones realizadas que temas predominan?
+
+2. ¿Pueden evidenciar diferencias entre los textos del corpus?
+
+3. ¿Qué palabras son las más frecuentes? ¿cuáles luego de eliminar palabras vacías?
+
+4. ¿Qué hipótesis inicial podrían formular?
+
+5. ¿Qué pueden decir respecto a este sencillo análisis comparativo entre R y Voyant Tools?
 
