@@ -1,11 +1,11 @@
 # CRUZATE_ejercicio_final
-Repositorio creado para el ejercicio final de Módulo de actualización técnica y herramientas digitales
+Repositorio creado para el ejercicio final de Módulo de actualización técnica y herramientas digitales.
 
 # Estructura del repositorio
-- README.md: descripción del proyecto y análisis del corpus
-- corpus2: contiene los archivos analizados que dio la profesora
-- img_voyant: capturas de pantalla de las visualizaciones realizadas en Voyant Tools en formato .png y archivos con la URL de Voyant con los textos cargados, URLs de los análisis realizados y lista de palabras utilizadas para la limpieza de los archivos en formato .txt
-- CRUZATE_ejercicio_final.R: script en R con el procesamiento y análisis del corpus 
+- README.md: descripción del proyecto y análisis del corpus.
+- corpus2: carpeta que contiene los archivos analizados proporcionados por la profesora.
+- img_voyant: carpeta que contiene las capturas de pantalla de las visualizaciones realizadas en Voyant Tools en formato .png, junto con archivos .txt que incluyen la URL de Voyant con los textos cargados, las URLs de los análisis realizados y la lista de palabras utilizadas para la limpieza de los archivos.
+- CRUZATE_ejercicio_final.R: script en R con el procesamiento y análisis del corpus. 
   
 # Herramientas utilizadas
 - RStudio
