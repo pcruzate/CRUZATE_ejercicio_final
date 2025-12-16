@@ -25,10 +25,32 @@ Repositorio creado para el ejercicio final de Módulo de actualización técnica
 - Sí, a partir de las visualizaciones se puede determinar que predominan tres grandes temas: 1) la cultura aborigen guaraní, evidenciada por palabras como indios, guaraníes, pueblos y Paraguay; 2) la monarquía española, reflejada en términos como rey, español, españoles y gobernador; y 3) el territorio y el espacio geográfico, representados por palabras como tierras, río, isla, mar y ciudad.
 
 2. ¿Pueden evidenciar diferencias entre los textos del corpus?
+- Sí, se pueden evidenciar diferencias entre los textos del corpus. Aunque todos los textos comparten un contexto histórico de exploración y colonización, las diferencias en el vocabulario reflejan los distintos enfoques y propósitos de cada autor: 
 
-3. ¿Qué palabras son las más frecuentes? ¿cuáles luego de eliminar palabras vacías?
+-- Azara_Descripcion: Predominan términos relacionados con la cultura guaraní y el territorio, como guaranís, Asunción, río y tierras, lo que sugiere una descripción detallada del entorno y las comunidades aborígenes.
+DiazDeGuzman_ArgManus: En este texto destacan términos como Asunción, río, capitán y nuflo, reflejando una narración más enfocada en la exploración y las interacciones con los pueblos y las autoridades coloniales.
 
-4. ¿Qué hipótesis inicial podrían formular?
+DuBiscay_RelDeUnViaje: Las palabras mercaderías, salvajes y río indican un enfoque en las experiencias de comercio y la relación con pueblos indígenas en el contexto de un viaje, probablemente hacia el interior del continente.
 
-5. ¿Qué pueden decir respecto a este sencillo análisis comparativo entre R y Voyant Tools?
+Hudson_DiasDeOcio: Este texto tiene una terminología más moderna, centrada en la descripción del entorno natural y las sensaciones de viaje, como patagonia, notas y kilómetros, lo que refleja un enfoque más centrado en el paisaje y la experiencia personal.
+
+LeyendaAraucana: Aquí, las palabras ancali, vilca, suri y curaca sugieren un enfoque más mítico y cultural, vinculado a leyendas indígenas del sur de América.
+
+PHernandez_RelCosas: Los términos comuneros, fué y garcia parecen estar vinculados a eventos políticos y sociales, posiblemente relacionados con la lucha por la independencia o conflictos locales.
+
+PMoreno_ViajePatagonia: Predominan términos como mesetas, lago y bote, que indican un enfoque descriptivo y geográfico centrado en el viaje por la Patagonia, con un énfasis en el paisaje natural.
+
+Pigafetta_PrimerViaje: La presencia de términos como rey, capitán y rajá señala un relato más centrado en la monarquía y la interacción con figuras de autoridad durante el viaje, con un enfoque en las relaciones de poder.
+
+Schmidl_ViajeAlRdP: En este caso, las palabras capitán, más y allí sugieren una narración más centrada en la experiencia del viajero y su relación con los eventos ocurridos durante el viaje.
+
+Viedma_Diario: Las palabras amaneció, pepys y goycochea sugieren un texto más enfocado en la experiencia diaria, con un estilo más personal y observacional, quizás relacionado con la vida cotidiana y la interacción con otros individuos.
+
+
+
+4. ¿Qué palabras son las más frecuentes? ¿cuáles luego de eliminar palabras vacías?
+
+5. ¿Qué hipótesis inicial podrían formular?
+
+6. ¿Qué pueden decir respecto a este sencillo análisis comparativo entre R y Voyant Tools?
 
