@@ -49,8 +49,11 @@ Viedma_Diario: Las palabras amaneció, pepys y goycochea sugieren un texto más 
 
 
 4. ¿Qué palabras son las más frecuentes? ¿cuáles luego de eliminar palabras vacías?
-- Las palabras más frecuentes, según el sumario de Voyant Tools, son:
+
+Las palabras más frecuentes, según el sumario de Voyant Tools, son:
+
 Antes de la limpieza: a (10579); no (3823); más (2175); le (1549); indios (1255) 
+
 Luego de la limpieza: indios (1255); río (1175); tierra (919); españoles (511); pueblo (480) (esto es coincidente con el gráfico de barras obtenido con RStudio, si obviamos las palabras que no pudieron ser limpiadas como día, allí, después y así). 
 
 6. ¿Qué hipótesis inicial podrían formular?
