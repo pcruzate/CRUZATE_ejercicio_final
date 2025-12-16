@@ -29,9 +29,9 @@ Repositorio creado para el ejercicio final de Módulo de actualización técnica
 
 Azara_Descripcion: Predominan términos relacionados con la cultura guaraní y el territorio, como guaranís, Asunción, río y tierras, lo que sugiere una descripción detallada del entorno y las comunidades aborígenes.
 
-DiazDeGuzman_ArgManus: En este texto destacan términos como Asunción, río, capitán y nuflo, reflejando una narración más enfocada en la exploración y la conquista española.
+DiazDeGuzman_ArgManus: En este texto destacan términos como Asunción, río, capitán y Nuflo, reflejando una narración más enfocada en la exploración y la conquista española.
 
-DuBiscay_RelDeUnViaje: Las palabras mercaderías, salvajes y río indican un enfoque en las experiencias de comercio y la relación con pueblos indígenas en el contexto de un viaje, probablemente hacia el interior del continente. También, se evidencia la perspectiva colonialista despectiva hacia los pueblos aborígenes, con palabras como salvajes. 
+DuBiscay_RelDeUnViaje: Las palabras mercaderías, salvajes y río indican un enfoque en las experiencias de comercio y la relación con pueblos indígenas en el contexto de un viaje, probablemente hacia el interior del continente. También, se evidencia la perspectiva colonialista despectiva hacia los pueblos aborígenes. 
 
 Hudson_DiasDeOcio: Este texto tiene una terminología más moderna, centrada en la descripción del entorno natural y las sensaciones de viaje, como patagonia, notas y kilómetros, lo que refleja un enfoque más centrado en el paisaje y la experiencia personal.
 
