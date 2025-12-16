@@ -18,6 +18,3 @@ Repositorio creado para el ejercicio final de Módulo de actualización técnica
 2. Carga de textos en Voyant Tools, limpieza, exploración de herramientas, capturas de pantalla y copia de URL de las diferentes visualizaciones exploradas. Carga de todos estos elementos en la carpeta img_voyant. 
 3. Carga de textos en R, limpieza, tokenización y creación de nube de palabras y gráfico de barras.
 4. Análisis del corpus de acuerdo a las consignas de este trabajo final.
-   - Observación: Durante el proceso de limpieza del corpus, tanto en Voyant Tools como en R, se identificaron limitaciones en el tratamiento de caracteres acentuados. En consecuencia, algunos términos incorporados a la lista de palabras a eliminar (como “así”, “allí” o “él”) permanecieron visibles en determinadas visualizaciones. Esto fue mucho más marcado en R. 
-
-
