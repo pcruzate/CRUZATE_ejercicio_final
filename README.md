@@ -22,7 +22,7 @@ Repositorio creado para el ejercicio final de Módulo de actualización técnica
 
 # Análisis de los corpus
 1. ¿Pueden determinar con las visualizaciones realizadas que temas predominan?
-
+#Respuesta: 
 2. ¿Pueden evidenciar diferencias entre los textos del corpus?
 
 3. ¿Qué palabras son las más frecuentes? ¿cuáles luego de eliminar palabras vacías?
