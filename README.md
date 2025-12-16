@@ -21,7 +21,7 @@ Repositorio creado para el ejercicio final de Módulo de actualización técnica
 
 
 # Análisis del corpus
-1. ¿Pueden determinar con las visualizaciones realizadas que temas predominan?
+1. ¿Pueden determinar con las visualizaciones realizadas qué temas predominan?
 - Sí, a partir de las visualizaciones se puede determinar que predominan tres grandes temas: 1) la cultura aborigen, evidenciada por palabras como indios, guaraníes, pueblos y Paraguay; 2) la monarquía española, reflejada en términos como rey, español, españoles y gobernador; y 3) el territorio y el espacio geográfico, representados por palabras como tierras, río, isla, mar y ciudad. Para este análisis fue particularmente útil la herramienta nube de palabras, tanto de Voyant Tools como de RStudio. 
 
 2. ¿Pueden evidenciar diferencias entre los textos del corpus?
@@ -29,7 +29,7 @@ Repositorio creado para el ejercicio final de Módulo de actualización técnica
 
 Azara_Descripcion: Predominan términos relacionados con la cultura guaraní y el territorio, como guaranís, Asunción, río y tierras, lo que sugiere una descripción detallada del entorno y las comunidades aborígenes.
 
-DiazDeGuzman_ArgManus: En este texto destacan términos como Asunción, río, capitán y nuflo, reflejando una narración más enfocada en la exploración.
+DiazDeGuzman_ArgManus: En este texto destacan términos como Asunción, río, capitán y nuflo, reflejando una narración más enfocada en la exploración y la conquista española.
 
 DuBiscay_RelDeUnViaje: Las palabras mercaderías, salvajes y río indican un enfoque en las experiencias de comercio y la relación con pueblos indígenas en el contexto de un viaje, probablemente hacia el interior del continente. También, se evidencia la perspectiva colonialista despectiva hacia los pueblos aborígenes, con palabras como salvajes. 
 
