@@ -22,8 +22,7 @@ Repositorio creado para el ejercicio final de Módulo de actualización técnica
 
 # Análisis de los corpus
 1. ¿Pueden determinar con las visualizaciones realizadas que temas predominan?
-# Respuesta: 
-csvs
+Sí, a partir de las visualizaciones se puede determinar que predominan tres grandes temas: 1) la cultura aborigen guaraní, evidenciada por palabras como indios, guaraníes, pueblos y Paraguay; 2) la monarquía española, reflejada en términos como rey, español, españoles y gobernador; y 3) el territorio y el espacio geográfico, representados por palabras como tierras, río, isla, mar y ciudad.
 
 2. ¿Pueden evidenciar diferencias entre los textos del corpus?
 
